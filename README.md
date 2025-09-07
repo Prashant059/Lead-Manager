@@ -48,7 +48,7 @@ This project is designed for managers and sales teams to easily manage leads, tr
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
-![Dashboard](./screenshot/Main Dashboard.png)
+![Dashboard](.screenshot\Main Dashboard.png)
 
 ### 📋 Leads Page
 ![Leads Page](./screenshot/Leads Dashboard.png)
