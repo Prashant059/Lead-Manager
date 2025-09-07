@@ -47,19 +47,7 @@ This project is designed for managers and sales teams to easily manage leads, tr
 
 ## 📂 Project Structure
 
-src/
-├── components/
-│ ├── layout/ # Layout with Navbar + Sidebar
-│ ├── leads/ # LeadForm + LeadTable
-│ └── followups/ # FollowUpForm + FollowUpTable
-├── pages/
-│ ├── Dashboard.jsx
-│ ├── Leads.jsx
-│ └── FollowUps.jsx
-├── utils/
-│ └── storage.js # load/save helpers for localStorage
-├── App.jsx
-└── main.jsx
+<pre> src/ ├── components/ │ ├── layout/ # Layout with Navbar + Sidebar │ ├── leads/ # LeadForm + LeadTable │ └── followups/ # FollowUpForm + FollowUpTable ├── pages/ │ ├── Dashboard.jsx │ ├── Leads.jsx │ └── FollowUps.jsx ├── utils/ │ └── storage.js # load/save helpers for localStorage ├── App.jsx └── main.jsx </pre>
 
 
 ---
