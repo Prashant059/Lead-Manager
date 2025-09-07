@@ -45,6 +45,19 @@ This project is designed for managers and sales teams to easily manage leads, tr
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Dashboard
+![Dashboard](./screenshot/Main Dashboard.png)
+
+### 📋 Leads Page
+![Leads Page](./screenshot/Leads Dashboard.png)
+
+### ⏰ Follow-ups Page
+![Follow-ups](./screenshot/FollowUps Dashboard.png)
+
+---
+
 ## 📂 Project Structure
 ```bash
 Lead-Manager/
