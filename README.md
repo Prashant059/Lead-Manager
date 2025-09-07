@@ -48,13 +48,13 @@ This project is designed for managers and sales teams to easily manage leads, tr
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
-![Dashboard](.screenshot\Main Dashboard.png)
+![Dashboard](./screenshot/dashboard.png)
 
 ### 📋 Leads Page
-![Leads Page](./screenshot/Leads Dashboard.png)
+![Leads Page](./screenshot/lead.png)
 
 ### ⏰ Follow-ups Page
-![Follow-ups](./screenshot/FollowUps Dashboard.png)
+![Follow-ups](./screenshot/followup.png)
 
 ---
 
