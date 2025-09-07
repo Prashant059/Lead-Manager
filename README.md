@@ -47,7 +47,37 @@ This project is designed for managers and sales teams to easily manage leads, tr
 
 ## 📂 Project Structure
 
-<pre> src/ ├── components/ │ ├── layout/ # Layout with Navbar + Sidebar │ ├── leads/ # LeadForm + LeadTable │ └── followups/ # FollowUpForm + FollowUpTable ├── pages/ │ ├── Dashboard.jsx │ ├── Leads.jsx │ └── FollowUps.jsx ├── utils/ │ └── storage.js # load/save helpers for localStorage ├── App.jsx └── main.jsx </pre>
+Lead-Manager/
+├── public/                     # Static assets
+│   └── index.html
+├── src/                        # Source code
+│   ├── components/             # Reusable UI components
+│   │   ├── layout/             # Navbar + Sidebar
+│   │   │   ├── Navbar.jsx
+│   │   │   └── Sidebar.jsx
+│   │   ├── leads/              # Leads management
+│   │   │   ├── LeadForm.jsx
+│   │   │   └── LeadTable.jsx
+│   │   └── followups/          # Follow-ups management
+│   │       ├── FollowUpForm.jsx
+│   │       └── FollowUpTable.jsx
+│   │
+│   ├── pages/                  # Pages for routing
+│   │   ├── Dashboard.jsx
+│   │   ├── Leads.jsx
+│   │   └── FollowUps.jsx
+│   │
+│   ├── utils/                  # Utility functions
+│   │   └── storage.js
+│   │
+│   ├── App.jsx                 # Root component
+│   └── main.jsx                # Entry point
+│
+├── .gitignore
+├── package.json
+├── vite.config.js
+└── README.md
+
 
 
 ---
