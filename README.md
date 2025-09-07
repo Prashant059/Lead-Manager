@@ -46,7 +46,7 @@ This project is designed for managers and sales teams to easily manage leads, tr
 ---
 
 ## 📂 Project Structure
-
+```bash
 Lead-Manager/
 ├── public/                     # Static assets
 │   └── index.html
@@ -77,7 +77,7 @@ Lead-Manager/
 ├── package.json
 ├── vite.config.js
 └── README.md
-
+```
 
 
 ---
